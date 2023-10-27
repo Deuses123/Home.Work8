@@ -1,0 +1,14 @@
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\bin\Debug\net7.0\Home.Work8.exe
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\bin\Debug\net7.0\Home.Work8.deps.json
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\bin\Debug\net7.0\Home.Work8.runtimeconfig.json
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\bin\Debug\net7.0\Home.Work8.dll
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\bin\Debug\net7.0\Home.Work8.pdb
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\obj\Debug\net7.0\Home.Work8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\obj\Debug\net7.0\Home.Work8.AssemblyInfoInputs.cache
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\obj\Debug\net7.0\Home.Work8.AssemblyInfo.cs
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\obj\Debug\net7.0\Home.Work8.csproj.CoreCompileInputs.cache
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\obj\Debug\net7.0\Home.Work8.dll
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\obj\Debug\net7.0\refint\Home.Work8.dll
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\obj\Debug\net7.0\Home.Work8.pdb
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\obj\Debug\net7.0\Home.Work8.genruntimeconfig.cache
+C:\Users\Sanzhar\RiderProjects\Home.Work8\Home.Work8\obj\Debug\net7.0\ref\Home.Work8.dll
